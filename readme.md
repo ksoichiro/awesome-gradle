@@ -27,7 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
   - [Cloud services](#cloud-services)
   - [SCM](#scm)
   - [CI](#ci)
-  - [Development environment](#development-environment)
+  - [VM and container](#vm-and-container)
 - [Boilerplates](#boilerplates)
 - [Resources](#resources)
   - [General Resources](#general-resources)
@@ -201,7 +201,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - [build-info](https://github.com/jfrogdev/build-info) - Artifactory's open integration layer for the CI servers and build tools.
 
-### Development environment
+### VM and container
 
 - [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin) - Manage Vagrant boxes.
 - [palantir/gradle-docker](https://github.com/palantir/gradle-docker) - Build and push Docker images.
