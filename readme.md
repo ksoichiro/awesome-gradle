@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 ### Code generation
 
 - [gradle-protobuf-plugin](https://github.com/tcawley/gradle-protobuf-plugin) - Compile [Google Protocol Buffers](https://developers.google.com/protocol-buffers/) files.
+- [querydsl-plugin](https://github.com/ewerk/gradle-plugins/tree/master/plugins/querydsl-plugin) - Generate [Querydsl](http://www.querydsl.com/) classes.
 
 ### Java application development
 
@@ -84,6 +85,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-node-plugin](https://github.com/srs/gradle-node-plugin) - Run NodeJS scripts.
 - [gradle-gulp-plugin](https://github.com/srs/gradle-gulp-plugin) - Run Gulp tasks.
 - [gradle-grunt-plugin](https://github.com/srs/gradle-grunt-plugin) - Run Grunt tasks.
+- [bower-installer-plugin](https://github.com/craigburke/bower-installer-gradle) - Manage client-side dependencies.
+- [apina](https://github.com/EvidentSolutions/apina) - Creates client-side TypeScript from server-side APIs.
 - [asset-pipeline](https://github.com/bertramdev/asset-pipeline) - Manage and process static assets in JVM applications.
 - [gradle-web-resource-plugin](https://github.com/ksoichiro/gradle-web-resource-plugin) - Use CoffeeScript, LESS and Bower libraries without Node.js/npm.
 - [rest-gradle-plugin](https://github.com/noamt/rest-gradle-plugin) - Perform REST requests.
@@ -120,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 ### iOS and Mac application development
 
 - [gradle-xcodePlugin](https://github.com/openbakery/gradle-xcodePlugin) - Build iOS and Mac projects.
+- [j2objc-gradle](https://github.com/j2objc-contrib/j2objc-gradle) - Enable Java source to be part of an iOS application's build.
 
 ### Editor and IDE integration
 
@@ -182,6 +186,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 ### Cloud services
 
+- [gradle-aws-plugin](https://github.com/classmethod-aws/gradle-aws-plugin) - Manage AWS resouces.
 - [gradle-s3-plugin](https://github.com/skhatri/gradle-s3-plugin) - Upload files to / download files from S3.
 - [gradle-stash-plugin](https://github.com/nebula-plugins/gradle-stash-plugin) - Interact with the Stash SCM.
 - [gradle-cf-plugin](https://github.com/melix/gradle-cf-plugin) - Interact with CloudFoundry.
@@ -199,7 +204,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 ### Development environment
 
 - [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin) - Manage Vagrant boxes.
-- [gradle-docker](https://github.com/Transmode/gradle-docker) - Build Docker images.
+- [palantir/gradle-docker](https://github.com/palantir/gradle-docker) - Build and push Docker images.
+- [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) - Build Docker images.
 
 ## Boilerplates
 
