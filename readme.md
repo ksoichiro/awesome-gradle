@@ -158,6 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 ### Testing
 
 - [gradle-gatling-plugin](https://github.com/alphagov/gradle-gatling-plugin) - Run [Gatling](http://gatling.io/) scenarios.
+- [gradle-console-reporter](https://github.com/ksoichiro/gradle-console-reporter) - Report test result to console.
 
 ### Building
 
