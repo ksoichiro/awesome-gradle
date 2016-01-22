@@ -89,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [apina](https://github.com/EvidentSolutions/apina) - Creates client-side TypeScript from server-side APIs.
 - [asset-pipeline](https://github.com/bertramdev/asset-pipeline) - Manage and process static assets in JVM applications.
 - [gradle-web-resource-plugin](https://github.com/ksoichiro/gradle-web-resource-plugin) - Use CoffeeScript, LESS and Bower libraries without Node.js/npm.
+- [gradle-compass](https://github.com/robfletcher/gradle-compass) - Compile and watche SASS files.
 - [rest-gradle-plugin](https://github.com/noamt/rest-gradle-plugin) - Perform REST requests.
 
 ### Android application development
