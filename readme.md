@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - Dependency management
   - [sdk-manager-plugin](https://github.com/JakeWharton/sdk-manager-plugin) - Download and manage Android SDK.
+  - [android-native-dependencies](https://github.com/nhachicha/android-native-dependencies) - Gradle plugin for resolving and downloading Android native dependencies (.so)
 - Alternative language
   - [groovy-android-gradle-plugin](https://github.com/groovy/groovy-android-gradle-plugin) - Support the Groovy language for building Android apps.
 - APK handling
