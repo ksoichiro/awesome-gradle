@@ -132,6 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [eclipse](https://docs.gradle.org/current/userguide/eclipse_plugin.html) - Official plugin that generates files that are used by [Eclipse IDE](http://eclipse.org/).
 - [idea](https://docs.gradle.org/current/userguide/idea_plugin.html) - Official plugin that generates files that are used by [Intellij IDEA IDE](http://www.jetbrains.com/idea/index.html).
 - [visual-studio](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds integration with Visual Studio.
+- [goomph](https://github.com/diffplug/goomph) - Downloads an Eclipse IDE with all required plugins and creates a workspace with specified settings and projects.
 - [gradle-sublimetext-plugin](https://github.com/phildopus/gradle-sublimetext-plugin) - Generate Sublime Text 2 project file.
 - [gradle-syntastic-plugin](https://github.com/Scuilion/gradle-syntastic-plugin) - Integrate Java project with Vim and Syntastic.
 
