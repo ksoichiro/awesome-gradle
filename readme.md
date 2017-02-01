@@ -54,6 +54,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - [findbugs](https://docs.gradle.org/current/userguide/findbugs_plugin.html) - Official plugin that performs quality checks on Java source files using [FindBugs](http://findbugs.sourceforge.net/).
 - [checkstyle](https://docs.gradle.org/current/userguide/checkstyle_plugin.html) - Official plugin that performs quality checks on Java source files using [Checkstyle](http://checkstyle.sourceforge.net/index.html).
+- [spotless](https://github.com/diffplug/spotless) - Checks and applies formatting rules using the Eclipse formatter and also user-defined rules.
 - [pmd](https://docs.gradle.org/current/userguide/pmd_plugin.html) - Official plugin that performs quality checks on your project's Java source files using [PMD](http://pmd.sourceforge.net/).
 - [jdepend](https://docs.gradle.org/current/userguide/jdepend_plugin.html) - Official plugin that performs quality checks on your project's source files using [JDepend](http://clarkware.com/software/JDepend.html).
 - [codenarc](https://docs.gradle.org/current/userguide/codenarc_plugin.html) - Official plugin that Performs quality checks on Groovy source files using [CodeNarc](http://codenarc.sourceforge.net/index.html).
