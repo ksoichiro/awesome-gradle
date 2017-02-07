@@ -209,6 +209,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 ### VM and container
 
 - [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin) - Manage Vagrant boxes.
+- [bmuschko/gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) - Gradle plugin for managing Docker images and containers.
 - [palantir/gradle-docker](https://github.com/palantir/gradle-docker) - Build and push Docker images.
 - [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) - Build Docker images.
 
