@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-scoverage](https://github.com/scoverage/gradle-scoverage) - Enable the use of Scoverage in a Gradle Scala project.
 - [gradle-errorprone-plugin](https://github.com/tbroyer/gradle-errorprone-plugin) - Use the [error-prone](https://github.com/google/error-prone) compiler for Java.
 - [gradle-spelling-plugin](https://github.com/ksoichiro/gradle-spelling-plugin) - Inspect spelling using custom blacklist.
+- [gradle-modernizer-plugin](https://github.com/simonharrer/gradle-modernizer-plugin) - Detect uses of legacy Java APIs.
 
 ### Code generation
 
@@ -168,6 +169,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - [build-time-tracker-plugin](https://github.com/passy/build-time-tracker-plugin) - Continuously track and report your build times.
 - [gradle-metrics-plugin](https://github.com/nebula-plugins/gradle-metrics-plugin) - Collect Gradle build metrics and persist them to an external datastore.
+- [nebula-plugin](https://nebula-plugins.github.io/) - A collection of Gradle plugins providing repeatable builds, immutable deployments and helping eliminate boilerplate code.
 
 ### Packaging
 
@@ -210,6 +212,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - [gradle-vagrant-plugin](https://github.com/bmuschko/gradle-vagrant-plugin) - Manage Vagrant boxes.
 - [bmuschko/gradle-docker-plugin](https://github.com/bmuschko/gradle-docker-plugin) - Gradle plugin for managing Docker images and containers.
+- [nebula-docker-plugin](https://github.com/nebula-plugins/nebula-docker-plugin) - Nebula gradle plugin for reducing boilerplate in creating docker images.
 - [palantir/gradle-docker](https://github.com/palantir/gradle-docker) - Build and push Docker images.
 - [Transmode/gradle-docker](https://github.com/Transmode/gradle-docker) - Build Docker images.
 
