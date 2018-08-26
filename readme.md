@@ -123,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
   - [ormlite-android-gradle-plugin](https://github.com/stephanenicolas/ormlite-android-gradle-plugin) - Generate an ORMLite configuration file and boost DAOs creations.
   - [gradle-eclipse-aar-plugin](https://github.com/ksoichiro/gradle-eclipse-aar-plugin) - Use Android AAR libraries on Eclipse.
   - [gradle-android-git](https://github.com/ksoichiro/gradle-android-git) - Manage Git dependency for Android apps.
+  - [Shot](https://github.com/Karumi/Shot) - Shot is a Gradle plugin that simplifies the execution of screenshot tests using [Screenshot Tests For Android by Facebook](http://facebook.github.io/screenshot-tests-for-android/).
 
 ### iOS and Mac application development
 
@@ -164,6 +165,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - [gradle-gatling-plugin](https://github.com/alphagov/gradle-gatling-plugin) - Run [Gatling](http://gatling.io/) scenarios.
 - [gradle-console-reporter](https://github.com/ksoichiro/gradle-console-reporter) - Report test result to console.
+- [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) - A Gradle plugin for printing beautiful logs on the console while running tests.
 
 ### Building
 
