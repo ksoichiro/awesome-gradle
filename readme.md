@@ -149,6 +149,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [flyway-gradle-plugin](http://flywaydb.org/documentation/gradle/) - [Flyway](http://flywaydb.org/) database migration tasks.
 - [liquibase-gradle-plugin](https://github.com/liquibase/liquibase-gradle-plugin) - Use [Liquibase](http://liquibase.org/) to manage your database upgrades.
 - [gradle-migrations-plugin](https://github.com/marceloemanoel/gradle-migrations-plugin) - Provide gradle build integration with [mybatis migrations](https://code.google.com/p/mybatis/wiki/Migration).
+- [ml-gradle](https://github.com/marklogic-community/ml-gradle) - Automate everything involving [MarkLogic](https://developer.marklogic.com/).
 
 ### Dependency management
 
