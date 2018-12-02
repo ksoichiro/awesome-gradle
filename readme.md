@@ -104,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - APK handling
   - [dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) - Report the number of method references in APK.
   - [android-gradle-mulchannel-plugin](https://github.com/ihrthk/android-gradle-mulchannel-plugin) - Generate multiple apks from different channel.
+  - [gradle-android-apk-size-plugin](https://github.com/vanniktech/gradle-android-apk-size-plugin) - Gradle plugin that generates CSV files with apk size per output and variant of an apk.
 - Build variant handling
   - [gradle-advanced-build-version](https://github.com/moallemi/gradle-advanced-build-version) - Generate the Android version code and version name automatically.
   - [gradle-config](https://github.com/tmiyamon/gradle-config) - Handle variant specific settings with yaml format.
