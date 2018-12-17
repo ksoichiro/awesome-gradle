@@ -158,7 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-nuget-plugin](https://github.com/Ullink/gradle-nuget-plugin) - Execute NuGet.exe from Gradle.
 - [gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin) - Allow people using dynamic dependency versions to lock them to specific versions.
 - [gradle-git-repo-plugin](https://github.com/layerhq/gradle-git-repo-plugin) - Use a private git repo as a Maven repository.
-- [gradle-kotlin-dsl-libs](https://github.com/jmfayard/gradle-kotlin-dsl-libs) - Painless dependencies management.
+- [buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - Painless dependencies management.
 
 ### Debugging
 
