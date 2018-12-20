@@ -115,7 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - Releasing
   - [gradle-deploygate-plugin](https://github.com/deploygate/gradle-deploygate-plugin) - Build and deploy apps to DeployGate.
   - [testfairy-gradle-plugin](https://github.com/testfairy/testfairy-gradle-plugin) - Official plugin to upload signed builds to TestFairy.
-  - [gradle-android-publisher](https://github.com/bluesliverx/gradle-android-publisher) - Publish APKs to Google Play.
+  - [gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) - Manage your complete Play Store presence in your repository: Listing, Release Notes, APKs and App Bundles.
 - Testing
   - [gradle-plugin-robospock](https://github.com/Centril/gradle-plugin-robospock) - Configure robospock (gradle + spock + roboelectric) easily.
   - [unmock-plugin](https://github.com/bjoernQ/unmock-plugin) - Allow you to use selected classes from a real Android-Jarfile for Android unit testing.
