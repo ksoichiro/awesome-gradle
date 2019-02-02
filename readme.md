@@ -53,6 +53,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 ### Code quality
 
 - [findbugs](https://docs.gradle.org/current/userguide/findbugs_plugin.html) - Official plugin that performs quality checks on Java source files using [FindBugs](http://findbugs.sourceforge.net/).
+- [spotbugs](https://plugins.gradle.org/plugin/com.github.spotbugs) - Official plugin that performs quality checks on Java source files using [SpotBugs](https://spotbugs.github.io/).
 - [checkstyle](https://docs.gradle.org/current/userguide/checkstyle_plugin.html) - Official plugin that performs quality checks on Java source files using [Checkstyle](http://checkstyle.sourceforge.net/index.html).
 - [spotless](https://github.com/diffplug/spotless/tree/master/plugin-gradle) - Checks and applies formatting rules using the Eclipse, google-java-format, ktlint, scalafmt, and also user-defined rules.
 - [pmd](https://docs.gradle.org/current/userguide/pmd_plugin.html) - Official plugin that performs quality checks on your project's Java source files using [PMD](http://pmd.sourceforge.net/).
