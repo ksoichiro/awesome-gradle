@@ -49,6 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [objective-c](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds Objective-C source compilation capabilities to a project.
 - [objective-cpp](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds Objective-C++ source compilation capabilities to a project.
 - [gradle-retrolambda](https://github.com/evant/gradle-retrolambda) - Get Java lambda support in Java 6, 7 and Android.
+- [clojurephant](https://github.com/clojurephant/clojurephant) - Clojure/ClojureScript support for Gradle
 
 ### Code quality
 
