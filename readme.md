@@ -70,7 +70,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 ### Code generation
 
 - [gradle-protobuf-plugin](https://github.com/tcawley/gradle-protobuf-plugin) - Compile [Google Protocol Buffers](https://developers.google.com/protocol-buffers/) files.
-- [querydsl-plugin](https://github.com/ewerk/gradle-plugins/tree/master/plugins/querydsl-plugin) - Generate [Querydsl](http://www.querydsl.com/) classes.
+- [querydsl-plugin](https://github.com/ewerk/gradle-plugins/tree/master/querydsl-plugin) - Generate [Querydsl](http://www.querydsl.com/) classes.
 
 ### Java application development
 
