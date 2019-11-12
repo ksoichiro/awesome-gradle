@@ -43,11 +43,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [groovy](https://docs.gradle.org/current/userguide/groovy_plugin.html) - Official plugin that adds support for building Groovy projects.
 - [scala](https://docs.gradle.org/current/userguide/scala_plugin.html) - Official plugin that adds support for building Scala projects.
 - [antlr](https://docs.gradle.org/current/userguide/antlr_plugin.html) - Official plugin that adds support for generating parsers using [Antlr](http://www.antlr.org/).
-- [assembler](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds native assembly language capabilities to a project.
-- [c](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds C source compilation capabilities to a project.
-- [cpp](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds C++ source compilation capabilities to a project.
-- [objective-c](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds Objective-C source compilation capabilities to a project.
-- [objective-cpp](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds Objective-C++ source compilation capabilities to a project.
+- [assembler](https://docs.gradle.org/current/userguide/native_software.html) - Official plugin that adds native assembly language capabilities to a project.
+- [c](https://docs.gradle.org/current/userguide/native_software.html) - Official plugin that adds C source compilation capabilities to a project.
+- [cpp](https://docs.gradle.org/current/userguide/native_software.html) - Official plugin that adds C++ source compilation capabilities to a project.
+- [objective-c](https://docs.gradle.org/current/userguide/native_software.html) - Official plugin that adds Objective-C source compilation capabilities to a project.
+- [objective-cpp](https://docs.gradle.org/current/userguide/native_software.html) - Official plugin that adds Objective-C++ source compilation capabilities to a project.
 - [gradle-retrolambda](https://github.com/evant/gradle-retrolambda) - Get Java lambda support in Java 6, 7 and Android.
 - [clojurephant](https://github.com/clojurephant/clojurephant) - Clojure/ClojureScript support for Gradle
 
@@ -137,7 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 
 - [eclipse](https://docs.gradle.org/current/userguide/eclipse_plugin.html) - Official plugin that generates files that are used by [Eclipse IDE](http://eclipse.org/).
 - [idea](https://docs.gradle.org/current/userguide/idea_plugin.html) - Official plugin that generates files that are used by [Intellij IDEA IDE](http://www.jetbrains.com/idea/index.html).
-- [visual-studio](https://docs.gradle.org/current/userguide/nativeBinaries.html) - Official plugin that adds integration with Visual Studio.
+- [visual-studio](https://docs.gradle.org/current/userguide/native_software.html) - Official plugin that adds integration with Visual Studio.
 - [goomph](https://github.com/diffplug/goomph) - Downloads an Eclipse IDE with all required plugins and creates a workspace with specified settings and projects.
 - [gradle-sublimetext-plugin](https://github.com/phildopus/gradle-sublimetext-plugin) - Generate Sublime Text 2 project file.
 - [gradle-syntastic-plugin](https://github.com/Scuilion/gradle-syntastic-plugin) - Integrate Java project with Vim and Syntastic.
