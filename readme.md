@@ -194,6 +194,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-bintray-plugin](https://github.com/bintray/gradle-bintray-plugin) - Publish artifacts to Bintray.
 - [gradle-nexus-plugin](https://github.com/bmuschko/gradle-nexus-plugin) - Configure and upload artifacts to Sonatype Nexus.
 - [gradle-release](https://github.com/researchgate/gradle-release) - Automate releasing process. Similar to the Maven release plugin.
+- [spotless-changelog](https://github.com/diffplug/spotless-changelog) - Parses changelog to calculate next version, then updates changelog on publish.
 
 ### Notification
 
