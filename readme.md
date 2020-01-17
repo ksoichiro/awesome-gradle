@@ -162,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-dependency-lock-plugin](https://github.com/nebula-plugins/gradle-dependency-lock-plugin) - Allow people using dynamic dependency versions to lock them to specific versions.
 - [gradle-git-repo-plugin](https://github.com/layerhq/gradle-git-repo-plugin) - Use a private git repo as a Maven repository.
 - [buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - Painless dependencies management.
+- [blowdryer (干)](https://github.com/diffplug/blowdryer) - Centralize buildscripts and config files across repositories.
 
 ### Debugging
 
