@@ -173,6 +173,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome), [awesome-gul
 - [gradle-console-reporter](https://github.com/ksoichiro/gradle-console-reporter) - Report test result to console.
 - [gradle-test-logger-plugin](https://github.com/radarsh/gradle-test-logger-plugin) - A Gradle plugin for printing beautiful logs on the console while running tests.
 - [gradle-itest-plugin](https://github.com/Softeq/itest-gradle-plugin) - This plugin adds integration testing support to the project
+- [gradle-kover-badge-plugin](https://github.com/Flaxoos/flax-gradle-plugins/tree/main/plugins/kover-badge) Adds a [Kover](https://github.com/Kotlin/kotlinx-kover) test coverage badge for your project.
 
 ### Building
 
